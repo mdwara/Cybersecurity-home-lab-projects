@@ -11,7 +11,8 @@ This is a growing collection of hands-on lab projects built to align with **Comp
 - Used **Microsoft Policy Analyzer** to compare local settings with Microsoft's security baseline
 - Identified misconfigurations such as password length and lockout policies
 - Practiced system hardening and compliance reporting  
-📄 [View PDF] (https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab01-PerformSystemConfigurationGapAnalysis.pdf)
+  📄 [View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab01-PerformSystemConfigurationGapAnalysis.pdf)
+
 
 ---
 
