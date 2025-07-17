@@ -21,7 +21,7 @@ This is a growing collection of hands-on lab projects built to align with **Comp
   - **Detective**: Event logging and audit policies
   - **Directive**: Login banners
   - **Corrective**: File integrity restoration via hashing and PowerShell  
-📄 [View PDF]([HomeLab02-ConfiguringExamples_ofSecurityControlTypes.pdf](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab02-ConfiguringExamples_ofSecurityControlTypes.pdf))
+📄 [View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab02-ConfiguringExamples_ofSecurityControlTypes.pdf)
 
 ---
 
@@ -29,7 +29,7 @@ This is a growing collection of hands-on lab projects built to align with **Comp
 - Conducted Nmap scans on external, guest, and internal networks
 - Detected open service ports and OS types
 - Analyzed attack surfaces and firewall configuration gaps  
-📄 [View PDF]([Lab%2003-Finding_Open_Services_Ports.pdf](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/Lab%2003-Finding_Open_Services_Ports.pdf))
+📄 [View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/Lab%2003-Finding_Open_Services_Ports.pdf)
 
 ---
 
