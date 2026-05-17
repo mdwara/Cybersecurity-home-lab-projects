@@ -100,7 +100,7 @@ This lab demonstrates how to create and manage Organizational Units, Active Dire
 - Windows Server 2019 administration
 - Technical documentation
 
-📄[View PDF](05-organizational-units-groups-delegation/HomeLab05-Organizational-Units-Groups-and-Delegation.pdf)
+📄[View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab05-Organizational-Units-Groups-and-Delegation.pdf)
 
 ---
 
