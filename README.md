@@ -121,6 +121,28 @@ This lab demonstrates how to manage user accounts in a Windows Server 2019 Activ
 
 📄[View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab06-Active-Directory-User-Account-Management.pdf)
 
+---
+
+### 🧩 **Home Lab 07: File Sharing, Share Permissions, and NTFS Permissions
+
+This lab demonstrates how to create and secure shared folders in a Windows Server 2019 domain environment. The lab includes creating a shared folder, accessing it from a Windows 10 domain client, configuring share permissions, configuring NTFS permissions, testing user access, and understanding how the most restrictive permission applies when share and NTFS permissions conflict.
+
+**Skills practiced:**
+- Windows Server 2019 file sharing
+- Shared folder configuration
+- UNC path access
+- Share permissions
+- NTFS permissions
+- Access control troubleshooting
+- Group-based permissions
+- Least privilege
+- Domain client testing
+- IT support documentation
+
+📄[View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab07-File-Sharing-Share-and-NTFS-Permissions.pdf)
+
+---
+
 ## 🚧 Upcoming Labs
 Planned future labs include:
 
