@@ -103,6 +103,23 @@ This lab demonstrates how to create and manage Organizational Units, Active Dire
 📄[View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab05-Organizational-Units-Groups-and-Delegation.pdf)
 
 ---
+### 🧩 **Home Lab 06: Active Directory User Account Management
+
+This lab demonstrates how to manage user accounts in a Windows Server 2019 Active Directory domain environment. The lab includes creating user accounts, assigning users to groups, updating user properties, signing in with a domain account, resetting passwords, disabling and enabling accounts, moving and renaming users, deleting test accounts, and searching Active Directory objects.
+
+**Skills practiced:**
+- Active Directory Users and Computers
+- User account creation
+- Group membership management
+- Password reset workflow
+- User must change password at next logon
+- Account disable/enable
+- Domain login testing
+- User object movement and renaming
+- Active Directory search and filtering
+- IT support documentation
+
+📄[View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab06-Active-Directory-User-Account-Management.pdf)
 
 ## 🚧 Upcoming Labs
 Planned future labs include:
