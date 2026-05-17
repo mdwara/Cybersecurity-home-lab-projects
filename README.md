@@ -9,7 +9,7 @@ This is a growing collection of hands-on lab projects built to align with **Comp
 
 ### 🧩 **HomeLab01: Perform System Configuration Gap Analysis**
 This lab demonstrates how to perform a system configuration gap analysis on Windows Server 2019 using Microsoft Policy Analyzer. The analysis compared the system’s effective configuration against a Microsoft security baseline and identified non-compliant settings related to password length and account lockout policy. 
-  📄 [View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab01-PerformSystemConfigurationGapAnalysis.pdf)
+  📄 [View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab01-Perform-System-Configuration-Gap-Analysis.pdf)
 
 
 ---
