@@ -63,6 +63,7 @@ This lab demonstrates how to use Nmap to identify open service ports, detect ope
 - Service identification
 - Basic vulnerability awareness
 - Network security analysis
+  
 📄 [View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/Lab%2003-Finding_Open_Services_Ports.pdf)
 
 ---
@@ -80,7 +81,7 @@ This lab demonstrates how to build a basic Windows domain environment using Wind
 - Client/server connectivity testing
 - Basic domain troubleshooting
 
-[View PDF](04-active-directory-domain-services/HomeLab04-Active-Directory-Domain-Services-and-Domain-Connectivity.pdf)
+📄[View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab04-Active-Directory-Domain-Services-and-Domain-Connectivity.pdf)
 
 ## 🚧 Upcoming Labs
 Planned future labs include:
