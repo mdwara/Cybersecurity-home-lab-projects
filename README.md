@@ -66,6 +66,21 @@ This lab demonstrates how to use Nmap to identify open service ports, detect ope
 📄 [View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/Lab%2003-Finding_Open_Services_Ports.pdf)
 
 ---
+### Home Lab 04: Active Directory Domain Services and Domain Connectivity
+
+This lab demonstrates how to build a basic Windows domain environment using Windows Server 2019 and Windows 10. The lab includes installing Active Directory Domain Services, promoting a server to a domain controller, creating the wara.edu domain, verifying AD DS startup in Event Viewer, joining a Windows 10 client to the domain, and confirming the client computer object in Active Directory Users and Computers.
+
+**Skills practiced:**
+- Windows Server 2019 administration
+- Active Directory Domain Services
+- Domain controller configuration
+- Windows 10 domain join
+- Event Viewer verification
+- Active Directory Users and Computers
+- Client/server connectivity testing
+- Basic domain troubleshooting
+
+[View PDF](04-active-directory-domain-services/HomeLab04-Active-Directory-Domain-Services-and-Domain-Connectivity.pdf)
 
 ## 🚧 Upcoming Labs
 Planned future labs include:
