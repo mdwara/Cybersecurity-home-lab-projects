@@ -40,8 +40,9 @@ This lab demonstrates the four major types of security controls and how they app
 - Login banner configuration
 - Hashing
 - PowerShell basics
-- File integrity verification 
-📄 [View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab02-ConfiguringExamples_ofSecurityControlTypes.pdf)
+- File integrity verification
+  
+📄 [View PDF]([https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab02-ConfiguringExamples_ofSecurityControlTypes.pdf](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab02-Configuring-Security-Control-Types.pdf))
 
 ---
 
