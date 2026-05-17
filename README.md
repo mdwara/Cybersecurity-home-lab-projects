@@ -83,6 +83,27 @@ This lab demonstrates how to build a basic Windows domain environment using Wind
 
 📄[View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab04-Active-Directory-Domain-Services-and-Domain-Connectivity.pdf)
 
+---
+### 🧩 **HomeLab05: Organizational Units, Groups, and Delegation
+
+This lab demonstrates how to create and manage Organizational Units, Active Directory groups, and delegated permissions in a Windows Server 2019 domain environment. The lab includes building a college-style OU hierarchy, moving computer objects, renaming and deleting OUs, delegating password reset permissions, configuring custom delegation, and creating groups with different scopes.
+
+**Skills practiced:**
+- Active Directory Users and Computers
+- Organizational Unit management
+- Nested OU structure design
+- User and computer object organization
+- Group creation
+- Group scope configuration
+- Delegation of Control Wizard
+- Least privilege access
+- Windows Server 2019 administration
+- Technical documentation
+
+📄[View PDF](05-organizational-units-groups-delegation/HomeLab05-Organizational-Units-Groups-and-Delegation.pdf)
+
+---
+
 ## 🚧 Upcoming Labs
 Planned future labs include:
 
@@ -100,8 +121,6 @@ Planned future labs include:
 - Understanding Security Baselines
 - System Hardening
 - Network Incident Investigation and Remediation
-
----
 
 ## 🧠 Skills Demonstrated
 This repository demonstrates hands-on experience with:
