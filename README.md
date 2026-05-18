@@ -160,7 +160,7 @@ This lab demonstrates how to use Group Policy in a Windows Server 2019 Active Di
 - Windows 10 client testing
 - IT support documentation
 
-[View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab08-Group-Policy-Desktop-Configuration-and-Mapped-Drives.pdf)
+📄 [View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab08-Group-Policy-Desktop-Configuration-and-Mapped-Drives.pdf)
 
 ---
 ### 🧩 Home Lab 09: DNS Server and DNS Client Configuration
