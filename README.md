@@ -163,7 +163,28 @@ This lab demonstrates how to use Group Policy in a Windows Server 2019 Active Di
 [View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab08-Group-Policy-Desktop-Configuration-and-Mapped-Drives.pdf)
 
 ---
+### 🧩 Home Lab 09: DNS Server and DNS Client Configuration
 
+This lab demonstrates how to configure a DNS client on Windows 10 and install/configure the DNS Server role on Windows Server 2019. The lab includes static IP addressing, DNS client configuration, DNS Manager, forward lookup zones, A records, hostname resolution testing, and Wireshark DNS traffic analysis.
+
+**Skills practiced:**
+
+- Windows 10 DNS client configuration
+- Windows Server 2019 DNS Server role
+- Static IP addressing
+- DNS Manager
+- Forward lookup zones
+- Host A records
+- Hostname resolution testing
+- Command Prompt troubleshooting
+- Wireshark DNS analysis
+- Client/server network troubleshooting
+- Technical documentation
+
+📄 [View PDF](09-dns-server-and-dns-client-configuration/HomeLab09-DNS-Server-and-DNS-Client-Configuration.pdf)
+---
+
+---
 ---
 ## 🚧 Upcoming Labs
 Planned future labs include:
