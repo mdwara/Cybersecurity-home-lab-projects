@@ -142,7 +142,29 @@ This lab demonstrates how to create and secure shared folders in a Windows Serve
 📄[View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab07-File-Sharing-Share-and-NTFS-Permissions.pdf)
 
 ---
+### 🧩 **Home Lab 08: Group Policy, Desktop Configuration, and Mapped Network Drives
 
+This lab demonstrates how to use Group Policy in a Windows Server 2019 Active Directory domain environment. The lab includes creating and linking GPOs, configuring desktop wallpaper, applying policies with gpupdate, creating a Clean Desktop policy, mapping the SecurityPlus shared folder as the S: drive using Group Policy Preferences, and testing access based on group permissions.
+
+**Skills practiced:**
+- Group Policy Management Console
+- Group Policy Management Editor
+- Creating and linking GPOs
+- User Configuration policies
+- Group Policy Preferences
+- Drive Maps
+- Mapped network drives
+- gpupdate
+- UNC path configuration
+- Share and NTFS permissions
+- Windows 10 client testing
+- IT support documentation
+
+[View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab08-Group-Policy-Desktop-Configuration-and-Mapped-Drives.pdf)
+
+---
+
+---
 ## 🚧 Upcoming Labs
 Planned future labs include:
 
