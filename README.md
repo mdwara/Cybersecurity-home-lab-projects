@@ -181,7 +181,7 @@ This lab demonstrates how to configure a DNS client on Windows 10 and install/co
 - Client/server network troubleshooting
 - Technical documentation
 
-📄 [View PDF](09-dns-server-and-dns-client-configuration/HomeLab09-DNS-Server-and-DNS-Client-Configuration.pdf)
+📄 [View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab09-DNS-Server-and-DNS-Client-Configuration.pdf)
 ---
 
 ---
