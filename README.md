@@ -183,7 +183,29 @@ This lab demonstrates how to configure a DNS client on Windows 10 and install/co
 
 📄 [View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab09-DNS-Server-and-DNS-Client-Configuration.pdf)
 ---
+### 🧩 Home Lab 10: DHCP Client and DHCP Server Configuration
 
+This lab demonstrates how to configure a DHCP client on Windows 10 and install/configure the DHCP Server role on Windows Server 2019. The lab includes DHCP client settings, static server IP configuration, DHCP scope creation, exclusions, lease duration review, DHCP options, scope activation, IP release/renew testing, and Wireshark analysis of DHCP Discover, Offer, Request, and ACK traffic.
+
+**Skills practiced:**
+
+- Windows 10 DHCP client configuration
+- Windows Server 2019 DHCP Server role
+- Static IP addressing
+- DHCP console management
+- DHCP scope creation
+- DHCP exclusions
+- Lease duration review
+- DHCP options
+- Default gateway option
+- DNS server option
+- ipconfig /release
+- ipconfig /renew
+- Wireshark DHCP traffic analysis
+- DHCP DORA process
+- Network troubleshooting documentation
+
+📄 [View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab10-DHCP-Client-and-DHCP-Server-Configuration.pdf)
 ---
 ---
 ## 🚧 Upcoming Labs
