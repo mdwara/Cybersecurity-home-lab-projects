@@ -168,20 +168,18 @@ This lab demonstrates how to use Group Policy in a Windows Server 2019 Active Di
 ## 🚧 Upcoming Labs
 Planned future labs include:
 
-- Managing Permissions
-- Using Group Policy
-- Using Virtualization
-- Setting up Remote Access
-- Implementing Backups
-- Configuring System Monitoring
-- Performing Root Cause Analysis
-- Implementing a Firewall
-- Performing DNS Filtering
-- Managing Password Security
-- Using Storage Encryption
-- Understanding Security Baselines
-- System Hardening
-- Network Incident Investigation and Remediation
+* Windows 10 Troubleshooting and Support Tools
+* IT Support Ticket Documentation and Resolution Workflow
+* Microsoft 365 User and Email Support Simulation
+* Setting up Remote Access
+* Implementing Backups
+* Configuring System Monitoring
+* Performing Root Cause Analysis
+* Implementing a Firewall
+* Performing DNS Filtering
+* Using Storage Encryption
+* System Hardening
+* Network Incident Investigation and Remediation
 
 ## 🧠 Skills Demonstrated
 This repository demonstrates hands-on experience with:
