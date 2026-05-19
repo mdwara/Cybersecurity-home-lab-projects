@@ -236,7 +236,7 @@ Skills practiced:
 * Step-by-step customer support communication
 * SaaS support fundamentals
 
-[View Lab 11](./HomeLab11-API-Troubleshooting-and-Postman-Support-Lab)
+📄 [View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab11-API-Troubleshooting-and-Postman-Support%20.pdf)
 
 
 ---
