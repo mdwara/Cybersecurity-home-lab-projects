@@ -208,6 +208,38 @@ This lab demonstrates how to configure a DHCP client on Windows 10 and install/c
 📄 [View PDF](https://github.com/mdwara/Cybersecurity-home-lab-projects/blob/main/HomeLab10-DHCP-Client-and-DHCP-Server-Configuration.pdf)
 ---
 ---
+
+### 🧩 HomeLab11: API Troubleshooting and Postman Support Lab
+
+This lab demonstrates how to troubleshoot REST API requests using Postman in a technical support environment. The lab includes testing a public API, sending GET and POST requests, reviewing JSON responses, identifying bad endpoint errors, correcting request issues, and documenting the resolution in a ticket-style format.
+
+Tasks completed:
+
+* Tested a public REST API using Postman
+* Sent successful GET requests to retrieve JSON data
+* Sent a successful POST request using a raw JSON body
+* Reviewed HTTP status codes including 200 OK and 201 Created
+* Troubleshot a failed request caused by an incorrect endpoint
+* Corrected the endpoint and verified successful API response
+* Documented troubleshooting steps, root cause, and resolution in ticket-style format
+
+Skills practiced:
+
+* Postman
+* REST API troubleshooting
+* GET and POST requests
+* JSON response review
+* HTTP status code interpretation
+* Endpoint validation
+* Technical support documentation
+* Ticket-style case notes
+* Step-by-step customer support communication
+* SaaS support fundamentals
+
+[View Lab 11](./HomeLab11-API-Troubleshooting-and-Postman-Support-Lab)
+
+
+---
 ## 🚧 Upcoming Labs
 Planned future labs include:
 
